@@ -63,6 +63,7 @@ The model is evaluated on the testing set using the Mean Squared Error (MSE) los
 ## Results
 
 The model achieves an average PSNR of `average_psnr`, indicating the effectiveness of the denoising process.
+Average PSNR: 16.92319678545168
 
 ## Installation
 
